@@ -4,10 +4,10 @@ change :- the login status
 
 change :- done my teammate for WI3
 
-change :- the login status
-
 change :- for the bug
 
 change :- for stash test for WI5 in progress
 
 change :- for WI6 on local master to test normal
+
+change :- by team mate on remote master for bug3
